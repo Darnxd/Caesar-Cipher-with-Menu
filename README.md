@@ -36,3 +36,12 @@ Text cipher: hkfoij
 
      python3 project.py
 
+📌 Program Menu
+
+    === Caesar Cipher Menu ===
+    1. Encrypt text
+    2. Decrypt text
+    3. Exit
+
+
+
