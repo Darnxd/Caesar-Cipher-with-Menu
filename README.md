@@ -22,5 +22,17 @@ The Caesar Cipher is a traditional substitution cipher in which every letter in 
 
 As an example:
 Text in plaintext: gautam
+
 Transition: 5
+
 Text cipher: hkfoij
+
+🚀 How to Run
+🖥️ Requirements
+
+    Python 3.x
+
+▶️ Run the program:
+
+     python3 project.py
+
