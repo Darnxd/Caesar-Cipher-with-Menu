@@ -14,4 +14,13 @@ A basic Python application that uses the Caesar Cipher algorithm to encrypt and 
 
   Input validation for shift values
 
-  Handles upper/lowercase letters and symbols gracefully
+  Handles upper/lowercase letters and symbols gracefully.
+
+  🧠 What is a Caesar Cypher?
+
+The Caesar Cipher is a traditional substitution cipher in which every letter in the plaintext is "shifted" up or down the alphabet by a predetermined amount.
+
+As an example:
+Text in plaintext: gautam
+Transition: 5
+Text cipher: hkfoij
