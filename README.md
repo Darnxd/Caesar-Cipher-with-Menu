@@ -6,13 +6,13 @@ A basic Python application that uses the Caesar Cipher algorithm to encrypt and 
 
 📋 Features
 
-  Encrypt text using a Caesar cipher
+-  Encrypt text using a Caesar cipher.
 
-  Decrypt encrypted text
+- Decrypt encrypted text
 
-  Menu-based user interface
+-  Menu-based user interface
 
-  Input validation for shift values
+ - Input validation for shift values
 
   Handles upper/lowercase letters and symbols gracefully.
 
